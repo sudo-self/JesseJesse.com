@@ -1,4 +1,5 @@
-# <a href="https://jessejesse.com/">JesseJesse.com[![Deploy Next.js site to Pages](https://github.com/sudo-self/JesseJesse.com/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/JesseJesse.com/actions/workflows/nextjs.yml)
+## <a href="https://jessejesse.com/">JesseJesse.com<br>
+[![Deploy Next.js site to Pages](https://github.com/sudo-self/JesseJesse.com/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/JesseJesse.com/actions/workflows/nextjs.yml)
 <img width="1440" alt="Screenshot 2023-10-09 at 23 05 32" src="https://github.com/sudo-self/JesseJesse.com/assets/119916323/ca2c5e5b-2834-491d-b432-17e80ff490f5">
 
 
