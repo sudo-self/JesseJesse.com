@@ -108,7 +108,7 @@ export default function Home() {
           </p>
         </a>
         <a
-          href="https://tunnel.JesseJesse.com/ROMz"
+          href="https://tunnel.JesseJesse.com/ROMs/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -120,11 +120,11 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-           secure fileserver. there when u need it. 
+           A secure fileserver. There when u need it. 
           </p>
         </a>  
         <a
-          href="https://sudo-self.com"
+          href="https://css.sudo-self.com"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -136,7 +136,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-           text over gif that accpets input
+           A text over gif that accpets input
           </p>
         </a>
          <a
@@ -152,7 +152,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          public hosted site that allows changing attributes in style.css
+          A public hosted site that allows changing attributes in style.css
           </p>
         </a>
       </div>
