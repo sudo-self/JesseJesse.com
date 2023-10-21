@@ -124,7 +124,7 @@ export default function Home() {
           </p>
         </a>  
         <a
-          href="https://css.sudo-self.com"
+          href="https://sudo-self.com"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -136,11 +136,11 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-         text over .gif that allows typed input
+         A project of words
           </p>
         </a>
          <a
-          href="https://bounce.sudo-self.com"
+          href="https://mb3.jessejesse.com"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -152,7 +152,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          site that allows changing attributes in style.css
+          An instant retro classic
           </p>
         </a>
         <a
