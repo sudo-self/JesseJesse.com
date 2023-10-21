@@ -124,7 +124,7 @@ export default function Home() {
           </p>
         </a>  
         <a
-          href="https://css.sudo-self.com"
+          href="https://sudo-self-com.vercel.app/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -136,7 +136,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-         text over .gif that allows typed input
+         you so sudo-self
           </p>
         </a>
          <a
@@ -172,40 +172,3 @@ export default function Home() {
           </p>
         </a>
       </div>
-      <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-<script>
-  /* paste this line in verbatim */
-  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-  /* customize formbutton below*/     
-  formbutton("create", {
-    action: "https://formspree.io/f/maygayly",
-    title: "How can I help?",
-    fields: [
-      { 
-        type: "email", 
-        label: "Email:", 
-        name: "email",
-        required: true,
-        placeholder: "your@email.com"
-      },
-      {
-        type: "textarea",
-        label: "Message:",
-        name: "message",
-        placeholder: "What's on your mind?",
-      },
-      { type: "submit" }      
-    ],
-    styles: {
-      title: {
-        backgroundColor: "red"
-      },
-      button: {
-        backgroundColor: "red"
-      }
-    }
-  });
-</script>
-    </main>
-  )
-}
