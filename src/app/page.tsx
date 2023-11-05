@@ -6,7 +6,11 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
         <a href="https://timeofday.jessejesse.workers.dev">☎&nbsp;</a>
+<<<<<<< HEAD
+          <code className="font-mono font-bold"><a href="https://JesseJesse.com">JesseJesse.com</a></code>
+=======
           <code className="font-mono font-bold"><a href="https://timeofday.jessejesse.workers.dev">JesseJesse.com</a></code>
+>>>>>>> refs/remotes/origin/main
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
@@ -41,36 +45,60 @@ export default function Home() {
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
+<<<<<<< HEAD
+          href="https://xo.jessejesse.com/"
+=======
           href="https://one.jessejesse.com/1?data=eyJuIjoiSmVzc2UgUm9wZXIiLCJkIjoiQi5TLiBJbmZvcm1hdGlvbiBUZWNobm9sb2d5LCBDVFUuIDIwMjJcblxuXG5cblxuIiwiaSI6Imh0dHBzOi8vbWVkaWEubGljZG4uY29tL2Rtcy9pbWFnZS9ENTYwM0FRR1J5UXkzSjhDRXZ3L3Byb2ZpbGUtZGlzcGxheXBob3RvLXNocmlua180MDBfNDAwLzAvMTY5NDM2NTY4MzkxOD9lPTE3MDI1MTIwMDAmdj1iZXRhJnQ9NjhlV2dFdjhrODhGejVPRzRiWVFSMGR3bW40R2dDN2pMT2tzS0RkVnExRSIsImYiOiIiLCJ0IjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9pbG9zdG15aXBhZCIsImlnIjoiIiwiZ2giOiJodHRwczovL2dpdGh1Yi5jb20vc3Vkby1zZWxmIiwidGciOiIiLCJsIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2pyc2RldmVsb3BtZW50cy8iLCJlIjoiamVzc2VAamVzc2VqZXNzZS5jb20iLCJ3IjoiMTcxOTQzMjc4MDYiLCJ5IjoiIiwibHMiOlt7ImkiOiJzdmctc3Bpbm5lcnM6d2lmaS1mYWRlIiwibCI6ImlQdjQgVG9vbCIsInUiOiJodHRwczovL2lwLmplc3NlamVzc2UuY29tIn0seyJpIjoiZ2FtZS1pY29uczphbmNpZW50LXN3b3JkIiwibCI6IlBsYXkgTm93IiwidSI6Imh0dHBzOi8vdHlzb24uamVzc2VqZXNzZS5jb20ifSx7ImkiOiJmbHVlbnQtZW1vamktaGlnaC1jb250cmFzdDp3aGFsZSIsImwiOiJUaGUgT2NlYW4iLCJ1IjoiaHR0cHM6Ly9uZW1vLmplc3NlamVzc2UuY29tIn0seyJpIjoidGFibGVyOmFsaWduLWJveC1ib3R0b20tY2VudGVyIiwibCI6IkJsb2ciLCJ1IjoiaHR0cHM6Ly9zdWRvLXNlbGYuZ2l0aHViLmlvLyJ9LHsiaSI6Imljb21vb24tZnJlZTpjcmVkaXQtY2FyZCIsImwiOiJDYXNoIGFwcCIsInUiOiJodHRwczovL2Nhc2hhcHAuamVzc2VqZXNzZS5jb20ifSx7ImkiOiJpY29tb29uLWZyZWU6ZG93bmxvYWQiLCJsIjoiRG93bmxvYWQgTXkgUmVzdW1lICIsInUiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzFtS2xsV3V4TERUZy1leUZmcllTNUhzVE1fVU11N3RhTC9lZGl0P3VzcD1zaGFyaW5nJm91aWQ9MTEzNDYyNjg0MzU1MzY3MjIwMjE4JnJ0cG9mPXRydWUmc2Q9dHJ1ZSJ9XX0="
+>>>>>>> refs/remotes/origin/main
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
+<<<<<<< HEAD
+            tic-tac-toe{' '}
+=======
             the dev{' '}
+>>>>>>> refs/remotes/origin/main
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+<<<<<<< HEAD
+         A multiplayer tic-tac-toe game
+=======
           A mini base64 link-in-bio that works offline.
+>>>>>>> refs/remotes/origin/main
           </p>
         </a>
 
         <a
+<<<<<<< HEAD
+          href="https://bot.jessejesse.com"
+=======
           href="https://colors.jessejesse.com"
+>>>>>>> refs/remotes/origin/main
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
+<<<<<<< HEAD
+             Chat Bot{' '}
+=======
             crayons{' '}
+>>>>>>> refs/remotes/origin/main
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+<<<<<<< HEAD
+          A Chat GPT UI Clone using open AI
+=======
           A online box of crayons with over 30K colors.
+>>>>>>> refs/remotes/origin/main
           </p>
         </a>
 
@@ -81,45 +109,96 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
+<<<<<<< HEAD
+             Blog{' '}
+=======
             blog{' '}
+>>>>>>> refs/remotes/origin/main
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+<<<<<<< HEAD
+          Jekyll themed markdown hosted with github pages.
+=======
           jekyll themed markdown hosted with github pages.
+>>>>>>> refs/remotes/origin/main
           </p>
         </a>
 
         <a
+<<<<<<< HEAD
+          href="https://retro.jessejesse.com"
+=======
           href="https://ip.jessejesse.com"
+>>>>>>> refs/remotes/origin/main
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
+<<<<<<< HEAD
+            Retro{' '}
+=======
             my ip{' '}
+>>>>>>> refs/remotes/origin/main
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+<<<<<<< HEAD
+           Zero config retro gaming console. 100% in web browser. 
+          </p>
+        </a> 
+        <a
+          href="https://one.jessejesse.com/1?data=eyJuIjoiSmVzc2UgUm9wZXIiLCJkIjoiQi5TLiBJbmZvcm1hdGlvbiBUZWNobm9sb2d5LCBDVFUuIDIwMjJcblxuXG5cblxuIiwiaSI6Imh0dHBzOi8vbWVkaWEubGljZG4uY29tL2Rtcy9pbWFnZS9ENTYwM0FRR1J5UXkzSjhDRXZ3L3Byb2ZpbGUtZGlzcGxheXBob3RvLXNocmlua180MDBfNDAwLzAvMTY5NDM2NTY4MzkxOD9lPTE3MDI1MTIwMDAmdj1iZXRhJnQ9NjhlV2dFdjhrODhGejVPRzRiWVFSMGR3bW40R2dDN2pMT2tzS0RkVnExRSIsImYiOiIiLCJ0IjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9pbG9zdG15aXBhZCIsImlnIjoiIiwiZ2giOiJodHRwczovL2dpdGh1Yi5jb20vc3Vkby1zZWxmIiwidGciOiIiLCJsIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2pyc2RldmVsb3BtZW50cy8iLCJlIjoiamVzc2VAamVzc2VqZXNzZS5jb20iLCJ3IjoiMTcxOTQzMjc4MDYiLCJ5IjoiIiwibHMiOlt7ImkiOiJzdmctc3Bpbm5lcnM6d2lmaS1mYWRlIiwibCI6ImlQdjQgVG9vbCIsInUiOiJodHRwczovL2lwLmplc3NlamVzc2UuY29tIn0seyJpIjoiZ2FtZS1pY29uczphbmNpZW50LXN3b3JkIiwibCI6IlBsYXkgTm93IiwidSI6Imh0dHBzOi8vdHlzb24uamVzc2VqZXNzZS5jb20ifSx7ImkiOiJmbHVlbnQtZW1vamktaGlnaC1jb250cmFzdDp3aGFsZSIsImwiOiJUaGUgT2NlYW4iLCJ1IjoiaHR0cHM6Ly9uZW1vLmplc3NlamVzc2UuY29tIn0seyJpIjoidGFibGVyOmFsaWduLWJveC1ib3R0b20tY2VudGVyIiwibCI6IkJsb2ciLCJ1IjoiaHR0cHM6Ly9zdWRvLXNlbGYuZ2l0aHViLmlvLyJ9LHsiaSI6Imljb21vb24tZnJlZTpjcmVkaXQtY2FyZCIsImwiOiJDYXNoIGFwcCIsInUiOiJodHRwczovL2Nhc2hhcHAuamVzc2VqZXNzZS5jb20ifSx7ImkiOiJpY29tb29uLWZyZWU6ZG93bmxvYWQiLCJsIjoiRG93bmxvYWQgTXkgUmVzdW1lICIsInUiOiJodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9kb2N1bWVudC9kLzFtS2xsV3V4TERUZy1leUZmcllTNUhzVE1fVU11N3RhTC9lZGl0P3VzcD1zaGFyaW5nJm91aWQ9MTEzNDYyNjg0MzU1MzY3MjIwMjE4JnJ0cG9mPXRydWUmc2Q9dHJ1ZSJ9XX0="
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className={`mb-3 text-2xl font-semibold`}>
+            About{' '}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+          A mini base64 link-in-bio from one.jessejesse.com
+          </p>
+        </a>
+        <a
+          href="https://sunshine.jessejesse.workers.dev"
+=======
          tool to easily find your ip address
           </p>
         </a>
         <a
           href="https://tunnel.JesseJesse.com/ROMs/"
+>>>>>>> refs/remotes/origin/main
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
+<<<<<<< HEAD
+            Geo Weather{' '}
+=======
             https{' '}
+>>>>>>> refs/remotes/origin/main
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+<<<<<<< HEAD
+         location based weather report
+          </p>
+        </a>
+        <a
+          href="https://hangman.jessejesse.com"
+=======
            A secure fileserver. There when u need it. 
           </p>
         </a>  
@@ -157,17 +236,44 @@ export default function Home() {
         </a>
         <a
           href="https://play.sudo-self.com"
+>>>>>>> refs/remotes/origin/main
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
+<<<<<<< HEAD
+            Hangman{' '}
+=======
             Jaystation{' '}
+>>>>>>> refs/remotes/origin/main
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+<<<<<<< HEAD
+         Guess the word before its too late
+          </p>
+        </a>
+        <a
+          href="https://sudo-self-com.vercel.app/"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className={`mb-3 text-2xl font-semibold`}>
+            sudo-self.com{' '}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+         A domain developed by me and hosted with vercel
+          </p>
+        </a>
+      </div>
+=======
           A online retro gaming console nes - playstation
           </p>
         </a>
@@ -206,6 +312,7 @@ export default function Home() {
     }
   });
 </script>
+>>>>>>> refs/remotes/origin/main
     </main>
   )
 }
