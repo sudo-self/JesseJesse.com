@@ -53,7 +53,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          A mini base64 link-in-bio that works offline.
+          A base64 link-in-bio.
           </p>
         </a>
 
@@ -64,13 +64,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            crayons{' '}
+            AI Code{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          A online box of crayons with over 30K colors.
+          AI to translate code to any language 
           </p>
         </a>
 
@@ -81,34 +81,34 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            blog{' '}
+            GH Pages{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          jekyll themed markdown hosted with github pages.
+          GH blog with jekyll themed markdown.
           </p>
         </a>
 
         <a
-          href="https://ip.jessejesse.com"
+          href="https://ai.jessejesse.com"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            my ip{' '}
+            AI-Jesse{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-         tool to easily find your ip address
+        myself as a chatbot
           </p>
         </a>
         <a
-          href="https://tunnel.JesseJesse.com/ROMs/"
+          href="https://dh.JesseJesse.com/ROMs/"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -120,11 +120,11 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-           A secure fileserver. There when u need it. 
+          The Classic Duck Hunt. 
           </p>
         </a>  
         <a
-          href="https://css.sudo-self.com"
+          href="https://retro.jessejesse.com"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -136,7 +136,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-         text over .gif that allows typed input
+        Retro Gaming Web Browser
           </p>
         </a>
          <a
@@ -152,7 +152,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          site that allows changing attributes in style.css
+          style.css
           </p>
         </a>
         <a
